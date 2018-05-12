@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5815'
     url: http://www.gutenberg.org/2009/agents/5815
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15046#Un-paseo-por-Paris-retratos-al-natural
 gutenberg_issued: '2005-02-14'
 gutenberg_type: Text
 identifiers:
