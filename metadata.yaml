@@ -1,0 +1,27 @@
+_repo: Un-paseo-por-Paris-retratos-al-natural_15046
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barcia, Roque
+    birthdate: 1823
+    deathdate: 1885
+    gutenberg_agent_id: '5815'
+    url: http://www.gutenberg.org/2009/agents/5815
+description: ''
+gutenberg_issued: '2005-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15046'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcsh 'Paris (France) -- Social life and customs'
+title: Un paseo por Paris, retratos al natural
+url: http://www.gutenberg.org/ebooks/15046
